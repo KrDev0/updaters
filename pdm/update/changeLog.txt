@@ -1,0 +1,14 @@
+Versión 1.1 Build 6 (6 Julio 2025) 
+
+-	Soporte para descargar múltiples archivos desde el menú contextual del navegador
+-	Soporte para descargar videos de sitios web
+-	Interfaz rediseñada
+-	Posibilidad de cambiar la carpeta temporal de descargas
+-	Otras mejoras y correcciones de bugs
+-	Para instalar esta actualización es necesario descargar desde el sitio web (https://kr-dev.site/software/tools/pdm)
+
+Versión 1.0 Build 5 (26 Mayo 2025) Inicial
+
+-	Compatibilidad con Chrome
+-	Soporte para 32 conexiones
+-	Soporte para (Pausar, Detener, Reanudar) descargas
