@@ -1,7 +1,7 @@
 {
-  "version": "1.3",
-  "installerUrl": "https://kr-dev.site/software/tools/pdm/update/PDM-Setup.exe",
-  "sha256": "62D15AB98263CDD95B9E1E33BFEAFB33C195DEE82950A6FFB045D16909BB77F2",
-  "size": 32645467,
+  "version": "1.4",
+  "installerUrl": "https://down.kr-dev.site/file/eyJub21icmUiOiJIQmlibGlhMi5tc2kiLCJ0YW1hbm8iOiI1MS43NyBNQiIsImZlY2hhIjoiMDItMTAtMjAyNCIsIm1kNSI6ImIwMTM4MTU3OWU3NGFiNTVjYjQ4MTc4YWFmYT/PDM/PDM-Setup-1.4.exe",
+  "sha256": "1C2A79306AC8C7ED22941A60ACFE0C166A2E43AA8A7C90DBE7AB79813A8660E0",
+  "size": 32644613,
   "changelogUrl": "https://raw.githubusercontent.com/KrDev0/updaters/refs/heads/main/pdm/update/changeLog.txt"
 }
