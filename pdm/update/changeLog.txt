@@ -9,7 +9,7 @@ Versión 1.3 Build 1 (8 Octubre 2026)
 -	Filtros del árbol reparados, sin duplicados, iconos .exe originales y borrado definitivo
 -	Extensiones de Chrome y Firefox mejoradas (botón sobre el video, menús, selección, sin diálogos dobles)
 -	Otras mejoras y correcciones de bugs
--	Para instalar esta actualización es necesario descargar el instalador desde el sitio web (https://kr-dev/?app=pdm)
+-	Para instalar esta actualización es necesario descargar el instalador desde el sitio web (https://kr-dev.site/?app=pdm)
 
 Versión 1.2 Build 9 (5 Octubre 2026) 
 
@@ -22,7 +22,7 @@ Versión 1.2 Build 9 (5 Octubre 2026)
 -	Progreso fluido 1-2-3, velocidad y conexiones reales, sin congelamientos
 -	Motor más rápido y estable: fin de descargas colgadas al 100% o en 0 bytes
 -	Otras mejoras y correcciones de bugs
--	Para instalar esta actualización es necesario descargar desde el sitio web (https://kr-dev/?app=pdm-update)
+-	Para instalar esta actualización es necesario descargar desde el sitio web (https://kr-dev.site/?app=pdm-update)
 
 Versión 1.1 Build 6 (6 Julio 2025) 
 
