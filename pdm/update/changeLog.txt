@@ -1,3 +1,29 @@
+Versión 1.3 Build 1 (8 Octubre 2026) 
+
+-	Actualizador con instalador: descarga, verifica y ejecuta el setup automáticamente, sin ZIP ni web
+-	Configuración global que sobrevive a cambios de versión (ajustes y lista de descargas ya no se pierden)
+-	Binarios de video (yt-dlp/ffmpeg) fuera de Program Files, con migración automática
+-	Variantes de video de cualquier web dentro del mismo formulario (MP4 multihilo o HLS)
+-	Soporte de cookies para sitios con login y errores explicados (enlace caducado, sesión requerida)
+-	Progreso fluido, velocidad y conexiones reales, ventanas que nunca se congelan
+-	Filtros del árbol reparados, sin duplicados, iconos .exe originales y borrado definitivo
+-	Extensiones de Chrome y Firefox mejoradas (botón sobre el video, menús, selección, sin diálogos dobles)
+-	Otras mejoras y correcciones de bugs
+-	Para instalar esta actualización es necesario descargar el instalador desde el sitio web (https://kr-dev/?app=pdm)
+
+Versión 1.2 Build 9 (5 Octubre 2026) 
+
+-	Videos como un IDM de verdad: descarga de YouTube y cualquier web hasta 4K, con MP4 multihilo y HLS unido automáticamente
+-	La extensión detecta el stream real aunque el reproductor use blob: y muestra las variantes en el mismo formulario
+-	Extensión de Firefox publicada, a la par de Chrome (v1.3.4)
+-	Soporte de cookies del navegador para sitios con login y avisos claros si un enlace caduca
+-	Filtros del árbol reparados (Comprimido, Programas, Videos…), sin filas duplicadas
+-	Iconos originales en archivos .exe y borrado definitivo (ya no reaparecen al reiniciar)
+-	Progreso fluido 1-2-3, velocidad y conexiones reales, sin congelamientos
+-	Motor más rápido y estable: fin de descargas colgadas al 100% o en 0 bytes
+-	Otras mejoras y correcciones de bugs
+-	Para instalar esta actualización es necesario descargar desde el sitio web (https://kr-dev/?app=pdm-update)
+
 Versión 1.1 Build 6 (6 Julio 2025) 
 
 -	Soporte para descargar múltiples archivos desde el menú contextual del navegador
