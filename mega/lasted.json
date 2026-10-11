@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "productId": "megadownloader4",
+  "channel": "beta",
+  "version": "4.0.0-beta",
+  "downloadPage": "https://kr-dev.site/?app=mega",
+  "releaseNotesFile": "changelog.md",
+  "releaseNotes": [
+    "Primera beta independiente de MegaDownloader 4 para Windows 10 y Windows 11.",
+    "Aplicación autocontenida para Windows x64: no requiere instalar .NET por separado.",
+    "Descarga de enlaces públicos de MEGA de archivos y carpetas, con cola persistente, pausa, reanudación e historial.",
+    "Configuración de descargas simultáneas, conexiones por archivo, límite de velocidad, reintentos y extracción ZIP, 7z, RAR y TAR con solicitud de contraseña cuando hace falta.",
+    "Detección opcional de enlaces MEGA en el portapapeles, tema claro/oscuro e interfaz en español e inglés.",
+    "Psiphon y VLC portable son opcionales. Los enlaces directos son temporales y locales; MegaDownloader debe permanecer abierto para servirlos."
+  ]
+}
