@@ -1,6 +1,6 @@
-# Novedades — MegaDownloader 4.0.0 Beta
+# Novedades — MegaDownloader 3.4
 
-Primera beta de la nueva aplicación independiente MegaDownloader 4 para Windows 10 y Windows 11.
+Versión oficial de MegaDownloader 3.4 para Windows 10 y Windows 11.
 
 ## Incluye
 
@@ -11,10 +11,11 @@ Primera beta de la nueva aplicación independiente MegaDownloader 4 para Windows
 - Extracción automática de ZIP, 7z, RAR y TAR, con solicitud de contraseña para archivos protegidos.
 - Detección opcional de enlaces MEGA copiados al portapapeles.
 - Interfaz en español e inglés, temas claro y oscuro, métricas y progreso en la barra de tareas.
+- Búsqueda automática de actualizaciones al iniciar, con novedades y decisión del usuario antes de abrir la página oficial.
 - Integración opcional de Psiphon y VLC portable.
 - Enlaces directos temporales servidos localmente mientras MegaDownloader permanece abierto.
 
-## Consideraciones de esta beta
+## Información de la versión
 
 - La aplicación solo procesa enlaces públicos; no incluye inicio de sesión en cuentas MEGA.
 - Un enlace directo generado por la app es local y temporal, no una URL CDN pública.
@@ -23,4 +24,4 @@ Primera beta de la nueva aplicación independiente MegaDownloader 4 para Windows
 
 ## Distribución
 
-MegaDownloader 4 se distribuye únicamente como archivo ZIP. La configuración y la cola se conservan en `%LOCALAPPDATA%\MegaDownloaderNext`.
+MegaDownloader 3.4 se distribuye únicamente como archivo ZIP. La configuración y la cola se conservan en `%LOCALAPPDATA%\MegaDownloaderNext`.
