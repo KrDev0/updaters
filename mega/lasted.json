@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "productId": "megadownloader4",
   "channel": "beta",
-  "version": "4.0.0-beta",
+  "version": "4.1.0-beta",
   "downloadPage": "https://kr-dev.site/?app=mega",
   "releaseNotesFile": "changelog.md",
   "releaseNotes": [
