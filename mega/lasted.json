@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "productId": "megadownloader34",
   "channel": "stable",
-  "version": "3.5.0",
+  "version": "3.4.0",
   "downloadPage": "https://kr-dev.site/?app=mega",
   "releaseNotesFile": "changelog.md",
   "releaseNotes": [
