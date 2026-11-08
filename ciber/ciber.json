@@ -1,4 +1,4 @@
 {
-  "version": "3.1",
-  "notas": "..."
+  "version": "3.2",
+  "notas": "Sesiones: tiempo libre o prefijado, inicio/transcurrido/restante e importe; evita iniciar sin IP, no bloquea sesiones libres y limpia el cronómetro al terminar. Recuperación: guarda sesiones ante cierre inesperado o reinicio; quedan pausadas hasta Reanudar, y Finalizar/Cobrar lleva el consumo al POS. Opción para pausar o seguir contando al cerrar el servidor. POS: productos cargados a la cuenta de cada equipo, cargos y uso de PC visibles en el grid, cobro del consumo parcial de sesiones libres y prefijadas, pagos mixtos en efectivo/tarjeta/transferencia y corrección al cambiar el modo mixto. Historial y Caja: detalle de productos y servicios por venta e importes separados por método de pago. Equipos: estado bloqueado/desbloqueado sincronizado con el cliente. Red: control remoto del Administrador de tareas y del inicio con Windows; perfiles por equipo o Todos, tarifa, fondo y preferencias conservados al reiniciar. Monitoreo: recuperación del visor en vivo, transmisión UDP separada para estado y video y selección de calidad."
 }
