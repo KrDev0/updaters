@@ -1,4 +1,20 @@
 {
   "version": "3.2",
-  "notas": "Recupera sesiones tras cierres o reinicios; reanúdalas o cóbralas desde el POS. Cobra el consumo parcial y productos por equipo con pagos mixtos. Historial detallado y desglose por método de pago. Configuración persistente, inicio con Windows, bloqueo del Administrador de tareas y monitoreo en vivo más estable."
+  "notas": "SESIONES
+Tiempo libre o prefijado, con inicio, transcurrido, restante e importe. No inicia sin IP, no bloquea sesiones libres y limpia el cronómetro al terminar.
+
+RECUPERACIÓN
+Guarda la sesión ante cierre inesperado o reinicio; queda pausada hasta Reanudar. Finalizar/Cobrar lleva la cuenta al POS. Elige si al cerrar el servidor las mesas se pausan o siguen corriendo.
+
+PUNTO DE VENTA
+Productos cargados por equipo, cargos y uso de PC visibles juntos, cobro parcial y pagos mixtos: efectivo, tarjeta y transferencia.
+
+HISTORIAL Y CAJA
+Detalle de productos y servicios, con importes separados por método de pago.
+
+CLIENTE Y CONFIGURACIÓN
+Estado bloqueado/desbloqueado sincronizado. Configura Administrador de tareas e inicio con Windows; conserva perfiles por equipo o Todos, tarifa, fondo y preferencias.
+
+MONITOREO
+Visor más estable, transmisión separada para video y estado, y calidad seleccionable."
 }
